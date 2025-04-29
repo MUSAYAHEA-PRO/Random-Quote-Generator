@@ -6,7 +6,7 @@ The **Random Quote Generator** is a clean, responsive web application that displ
 
 Here is a screenshot of the website showcasing the random quote generator in action:
 
-![Random Quote Generator Website](images/bg.png)
+![Random Quote Generator Website](https://github.com/MUSAYAHEA-PRO/Random-Quote-Generator/blob/main/Images/bg.png)
 
 ## 💡 Why I Built This
 I created this project to deepen my understanding of JavaScript fundamentals like DOM manipulation, event handling, and working with APIs. It also allowed me to experiment with modern UI techniques such as **Glassmorphism** and build a layout that looks great on all screen sizes.
